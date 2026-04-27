@@ -14,7 +14,7 @@ Quick Start Guides:
 - Frankford Arsenal X-10: [Link]
 
 Latest Updates (CPU Firmware & HMI):
-- Current Release: []
+- Current Release: 
 
 Troubleshooting:
 - Common Issues and Fixes: [Link]
