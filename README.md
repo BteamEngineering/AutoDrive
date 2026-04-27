@@ -14,7 +14,7 @@ Quick Start Guides:
 - Frankford Arsenal X-10: [Link]
 
 Latest Updates (CPU Firmware & HMI):
-- Current Release: [ https://github.com/BteamEngineering/AutoDrive/blob/main/SOFTWARE-UPDATES/Software_update_20260403.zip ]
+- Current Release: []
 
 Troubleshooting:
 - Common Issues and Fixes: [Link]
